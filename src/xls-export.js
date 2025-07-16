@@ -15,7 +15,7 @@ const translationKeys = readFileSync(
   .map((v) => v.trim())
   .filter((v) => v);
 
-const langs = translationFiles.map((str) => str.match(/\(([^)]+)\)/)[1].trim());
+const langs = translationFiles.map((str) => str.match(/\(([^)]+)\)/)[1].trim()).reverse();
 
 const valuesKeyedBylang = translationFiles.reduce((acc, curr) => {
   const lang = curr.match(/\(([^)]+)\)/)[1].trim();
