@@ -1,6 +1,7 @@
 ﻿Swedish
 EUROPEISKA\n        KOMMISSIONEN
 EUROPEISKA\n        KOMMISSIONEN 2024-2029
+Välj ett ämne
 Välj en kommissionär\ni kollegiet
 Ursula\n<b>von der Leyen</b>
 Teresa\n<b>Ribera Rodríguez</b>
@@ -91,3 +92,26 @@ DEMOKRATI OCH RÄTTSSTATSPRINCIPEN\nMichael McGrath har till uppgift att upprät
 Apostolos Tzitzikostas, kommissionär med ansvar för hållbara transporter och turism. Hans uppgift är att göra de europeiska transporterna mer konkurrenskraftiga, hållbara och motståndskraftiga mot framtida chocker och att se till att de är säkra, tillgängliga och överkomliga för alla EU-invånare.
 Christophe Hansen, kommissionär med ansvar för jordbruk och livsmedel. Han arbetar för att stärka jordbrukssektorns konkurrenskraft, motståndskraft och hållbarhet genom att följa upp rekommendationerna från den strategiska dialogen om jordbrukets framtid i EU.
 Glenn Micallef, kommissionär med ansvar för rättvisa mellan generationerna, ungdomsfrågor, kultur och idrott Hans uppgift är att ge ungdomar större frihet, inflytande och ansvar i våra samhällen, med utgångspunkt i vad som sammanför oss i mångfalden, från vårt kulturarv till idrott på alla nivåer.
+Välj ett kort och placera ut det på tidslinjen ...
+Så tillsätts EU-kommissionen
+Före
+Efter
+Hjälp
+Ja tack!
+Nej tack
+Vill du att nästa kort placeras ut automatiskt på tidslinjen?
+Grattis
+Läs mer om nuvarande kommissionärer:
+Upptäck mer!
+Folket röstar i EU-val
+Vart femte år går folket i Europeiska unionen (EU) till val för att rösta fram 720 ledamöter till Europaparlamentet. Dessa ledamöter representerar runt 450 miljoner människor i 27 olika länder.
+Parlamentet väljer en ordförande för kommissionen
+Efter valet väljer ledarna för de 27 länderna ut en person som ordförande för Europeiska kommissionen. Ordföranden talar inför parlamentet, och parlamentet röstar om att göra personen till ordförande eller inte.
+Länderna väljer ut sina kommissionärer
+Varje EU-land väljer ut en kommissionär. Den nya ordföranden för Europeiska kommissionen bestämmer vilket uppdrag varje kommissionär får. Alla länder väljer en kommissionär, förutom ordförandens hemland.
+Kandidaterna möter parlamentet
+Varje person som valts till kommissionär måste tala inför parlamentet. De får svara på frågor för att visa att de är rätt person för jobbet.
+Parlamentet röstar om den nya Europeiska kommissionen
+Kommissionens tillträdande ordförande presenterar hela kommissionärsteamet och deras planer för Europaparlamentet. Parlamentet röstar om att godkänna hela teamet för en period på fem år.
+Den nya kommissionen börjar arbeta
+De 27 EU-ländernas ledare tillsätter officiellt den nya Europeiska kommissionen. Det nya teamet påbörjar sitt arbete för de kommande fem åren. Den nuvarande Europeiska kommissionen tillträdde i december 2024 och kommer att sluta i oktober 2029.

@@ -1,6 +1,7 @@
 ﻿lang
 appTitle
 mainMenuHint
+firstMenuHint
 collegeMembersHint
 name1
 name2

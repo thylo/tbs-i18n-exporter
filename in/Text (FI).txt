@@ -1,6 +1,7 @@
 ﻿Finnish
 EUROOPAN\n        KOMISSIO
 EUROOPAN\n        KOMISSIO 2024–2029
+Valitse aihe
 Valitse kollegion\njäsen
 Ursula\n<b>von der Leyen</b>
 Teresa\n<b>Ribera Rodríguez</b>
@@ -91,3 +92,26 @@ DEMOKRATIA JA OIKEUSVALTIOPERIAATE\nKomissaari Michael McGrathin tehtävänä on
 Kestävästä liikenteestä ja matkailusta vastaavana komissaarina toimii Apostolos Tzitzikostas. Hänen tehtävänään on parantaa EU:n liikenteen kilpailukykyä, kestävyyttä ja häiriönsietokykyä sekä varmistaa, että liikenne on turvallista, helppokäyttöistä ja kohtuuhintaista kaikille EU:ssa.
 Maatalous- ja elintarvikeasioista vastaavana komissaarina toimii Christophe Hansen. Hänen tehtävänään on maatalouden kilpailukyvyn, selviytymiskyvyn ja kestävyyden parantaminen EU:n maatalouden tulevaisuudesta käydyssä strategisessa vuoropuhelussa esitettyjen suositusten mukaisesti.
 Sukupolvien välisestä oikeudenmukaisuudesta sekä nuoriso-, kulttuuri- ja urheiluasioista vastaavana komissaarina toimii Glenn Micallef. Hänen tehtävänään on edistää nuorten vapauksia ja antaa heille enemmän sananvaltaa ja vastuuta EU:n yhteiskunnissa sen pohjalta, mikä eurooppalaisia yhdistää – kulttuuriperinnöstä urheiluun.
+Valitse kortti ja aseta se aikajanalle…
+Kuinka Euroopan komissio nimitetään
+Ennen
+Jälkeen
+Ohje
+Kyllä, kiitos!
+Ei kiitos
+Haluatko, että seuraava kortti asetetaan automaattisesti aikajanalle?
+Onnittelut
+Lue lisää nykyisistä komissaareista:
+Hanki lisätietoa!
+Ihmiset äänestävät eurovaaleissa
+Viiden vuoden välein Euroopan unionin (EU) kansalaiset valitsevat äänestämällä Euroopan parlamenttiin 720 edustajaa (meppiä). Nämä mepit edustavat n. 450 miljoonaa ihmistä 27 jäsenvaltiosta.
+Parlamentti valitsee komissiolle puheenjohtajan
+Vaalien jälkeen näiden 27 jäsenvaltion johtajat valitsevat Euroopan komissiolle puheenjohtajan. Puheenjohtaja puhuu parlamentille, jonka jälkeen parlamentin jäsenet päättävät äänestämällä, halutaanko tämä henkilö parlamentin puheenjohtajaksi.
+Jäsenvaltiot valitsevat komissaarinsa
+Jokainen EU-maa valitsee yhden komissaarin. Euroopan komission uusi puheenjohtaja päättää kunkin komissaarin toimialasta. Kukin jäsenvaltio, paitsi puheenjohtajan kotimaa, valitsee yhden komissaarin.
+Ehdokkaat kohtaavat parlamentin
+Komissaariehdokkaan on tultava parlamentin kuultavaksi. Hänen on vastattava kysymyksiin, joiden tarkoituksena on selvittää ehdokkaan kelpoisuus valittuun toimeen.
+Parlamentti äänestää uuden Euroopan komission kokoonpanosta
+Komission puheenjohtajaksi valittu henkilö esittelee Euroopan parlamentille komissaarinsa ja heidän suunnitelmansa. Parlamentti äänestää uusien komissaarien hyväksymisestä 5 vuoden toimikaudeksi.
+Uusi komissio aloittaa työskentelynsä
+EU:n 27 jäsenvaltion johtajat nimittävät virallisesti uuden Euroopan komission. Uudet valitut jäsenet aloittavat työskentelynsä seuraavien 5 vuoden ajaksi. Nykyinen Euroopan komissio aloitti vuoden 2024 joulukuussa toimikautensa, joka päättyy vuoden 2029 lokakuussa.

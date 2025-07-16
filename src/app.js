@@ -3,6 +3,7 @@ import { resolve } from "path";
 
 const url =
   "https://script.google.com/macros/s/AKfycbzMsMOqOzEIx-GJPRohqCt2Fz7P5QkmEw62ZK-yteyoE5AEIFqcRATscewowqbtGA6C/exec";
+
 const translationKeys = readFileSync(
   resolve("./in/Translation Keys.txt"),
   "utf8",

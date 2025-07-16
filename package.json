@@ -11,5 +11,9 @@
   "description": "",
   "devDependencies": {
     "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "glob": "^11.0.3",
+    "xlsx": "^0.18.5"
   }
 }

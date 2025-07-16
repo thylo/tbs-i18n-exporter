@@ -1,6 +1,7 @@
 ﻿Polish
 KOMISJA\n        EUROPEJSKA
 KOMISJA\n        EUROPEJSKA 2024-2029
+Proszę wybrać temat
 Wybierz członka\nKolegium 
 Ursula\n<b>von der Leyen</b>
 Teresa\n<b>Ribera Rodríguez</b>
@@ -91,3 +92,26 @@ DEMOKRACJA I PRAWORZĄDNOŚĆ\nMichael McGrath ma za zadanie <b>podtrzymywać i 
 Apostolos Dzidzikostas jest komisarzem do spraw zrównoważonego transportu i turystyki. Jego zadaniem jest uczynienie <b>europejskiego transportu bardziej konkurencyjnym</b>, <b>zrównoważonym i odpornym </b>na przyszłe kryzysy oraz zapewnienie, by sektor ten był <b>bezpieczny, dostępny i przystępny cenowo dla wszystkich obywateli UE.</b>
 Christophe Hansen jest komisarzem do spraw rolnictwa i żywności. Pracuje nad <b>zwiększeniem konkurencyjności, odporności i zapewnieniem zrównoważonego rozwoju sektora rolnego </b>w oparciu o zalecenia sformułowane w ramach strategicznego dialogu na temat przyszłości rolnictwa w UE.
 Glenn Micallef jest komisarzem do spraw sprawiedliwości międzypokoleniowej, młodzieży, kultury i sportu. Jego zadaniem jest <b>zapewnić młodym ludziom więcej wolności, możliwości wyrażenia opinii i podejmowania odpowiedzialności</b> w naszych społeczeństwach oraz budować w oparciu o elementy łączące nas w różnorodności; od naszego dziedzictwa kulturowego po sport na wszystkich szczeblach.
+Wybierz kartę i umieść ją na osi czasu...
+Jak powoływana jest Komisja Europejska
+Przed
+Po
+Pomoc
+Tak, proszę!
+Nie, dziękuję.
+Czy chcesz, aby następna karta była automatycznie umieszczana na osi czasu?
+Gratulacje
+Dowiedz się więcej o obecnych komisarzach:
+Odkryj więcej!
+Ludzie głosują w wyborach europejskich
+Co 5 lat mieszkańcy Unii Europejskiej (UE) głosują, aby wybrać 720 posłów do Parlamentu Europejskiego, którzy reprezentują około 450 milionów ludzi z 27 krajów.
+Parlament wybiera przewodniczącego Komisji Europejskiej
+Po wyborach przywódcy 27 krajów wybierają osobę na stanowisko przewodniczącego Komisji Europejskiej. Przewodniczący rozmawia z Parlamentem, a ten głosuje, aby zdecydować, czy chce, aby ta osoba była przewodniczącym.
+Kraje wybierają swoich komisarzy
+Każdy kraj Unii Europejskiej wybiera jedną osobę na stanowisko komisarza. Nowy przewodniczący Komisji Europejskiej decyduje, jakie stanowiska będą zajmować poszczególni komisarze. Wszystkie kraje, z wyjątkiem kraju przewodniczącego, wybierają komisarza.
+Kandydaci spotykają się z Parlamentem
+Każda osoba wybrana na stanowisko komisarza musi porozmawiać z Parlamentem. Odpowiada na pytania, aby udowodnić, że jest odpowiednią osobą na to stanowisko.
+Parlament głosuje nad nową Komisją Europejską
+Wybrany przewodniczący Komisji przedstawia Parlamentowi Europejskiemu pełny zespół komisarzy i ich plany. Parlament głosuje nad zatwierdzeniem całego zespołu na 5-letnią kadencję.
+Nowa Komisja rozpoczyna pracę
+Przywódcy 27 krajów UE oficjalnie powołują nową Komisję Europejską. Nowy zespół rozpoczyna pracę na kolejne 5 lat. Kadencja obecnej Komisji Europejskiej rozpoczęła się w grudniu 2024 r. i zakończy się w październiku 2029 r.

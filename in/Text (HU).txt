@@ -1,6 +1,7 @@
 ﻿Hungarian
 AZ EURÓPAI\n        BIZOTTSÁG
 AZ EURÓPAI\n        BIZOTTSÁG 2024–2029
+Kérjük, válasszon témakört
 Válassza ki a testület\negy tagját
 Ursula\n<b>von der Leyen</b>
 Teresa\n<b>Ribera Rodríguez</b>
@@ -91,3 +92,26 @@ DEMOKRÁCIA ÉS JOGÁLLAMISÁG\nMichael McGrath feladata, hogy fenntartsa és me
 Apósztolosz Cicikósztasz a fenntartható közlekedésért és a turizmusért felelős biztos. Feladata, hogy versenyképesebbé, fenntarthatóbbá és a jövőbeli sokkhatásokkal szemben ellenállóbbá tegye az európai közlekedést, és biztosítsa, hogy az valamennyi uniós polgár számára biztonságos, hozzáférhető és megfizethető legyen.
 Christophe Hansen a mezőgazdaságért és az élelmiszerügyért felelős biztos. Az uniós mezőgazdaság jövőjéről folytatott stratégiai párbeszédből származó ajánlások nyomán a mezőgazdasági ágazat versenyképesebbé, reziliensebbé és fenntarthatóbbá tételén dolgozik.
 Glenn Micallef a generációk közötti méltányosságért, az ifjúságért, a kultúráért és a sportért felelős biztos. Feladata, hogy társadalmainkon belül nagyobb szabadságot, beleszólást és felelősséget biztosítson a fiataloknak, építve arra, ami összeköt minket a sokféleségben, kulturális örökségünktől kezdve a sportig minden szinten.
+Válassz ki egy kártyát, és helyezd el az idővonalon!
+Hogyan történik az Európai Bizottság kinevezése?
+Előtte
+Utána
+Segítség
+Igen, köszönöm.
+Nem, köszönöm.
+Szeretnéd, hogy a következő kártya automatikusan megjelenjen az idővonalon?
+Gratulálunk!
+Tudj meg többet a jelenlegi biztosokról:
+További információ
+Az uniós polgárok szavaznak az európai parlamenti választásokon
+Az Európai Unió (EU) polgárai ötévente szavazás útján választják meg az Európai Parlament 720 képviselőjét (EP-képviselők). A képviselők 27 tagállam mintegy 450 millió állampolgárát képviselik.
+A Parlament megválasztja a Bizottság elnökét
+A választások után a 27 tagállam vezetői kinevezik az Európai Bizottság elnökét. Az elnök beszédet mond a parlamenti képviselők előtt, akik szavazással döntenek arról, hogy támogatják-e őt ebben a szerepben.
+A tagállamok kiválasztják a biztosaikat
+Minden uniós tagállam választ egy biztost. Az Európai Bizottság új elnöke dönti el, hogy az egyes biztosok milyen feladatokat fognak betölteni. Az elnök tagállamának kivételével minden ország választ egy biztost.
+A jelöltek bemutatkoznak a Parlament előtt
+Minden biztosjelöltnek meg kell jelennie az Európai Parlament előtt, és a képviselők kérdéseire válaszolva kell bizonyítania, hogy alkalmas a pozíció betöltésére.
+Az Európai Parlament szavaz az új Európai Bizottságról
+A megválasztott bizottsági elnök bemutatja az Európai Parlamentnek a teljes biztosjelölti csapatot és terveiket. Ezután a Parlament szavaz arról, hogy jóváhagyja-e az egész testületet az ötéves időszakra.
+Az új Bizottság megkezdi munkáját
+Az Európai Unió 27 tagállamának vezetői hivatalosan kinevezik az új Európai Bizottságot. Az új testület megkezdi munkáját a következő öt évre. A jelenlegi Európai Bizottság 2024 decemberében kezdte meg tevékenységét, és 2029 októberéig tart a mandátuma.
