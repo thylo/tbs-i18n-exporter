@@ -2,7 +2,8 @@ import { writeFileSync, readFileSync } from "fs";
 import { resolve } from "path";
 
 const url =
-  "https://script.google.com/macros/s/AKfycbzMsMOqOzEIx-GJPRohqCt2Fz7P5QkmEw62ZK-yteyoE5AEIFqcRATscewowqbtGA6C/exec";
+  "https://script.google.com/macros/s/AKfycbx03qzmQrIwJTyrIJRXSZTM4FFICzKn0mDOE10ItYw-eXFTynARdyE80t4QKMwlowgD/exec"; // WAE12
+  //"https://script.google.com/macros/s/AKfycbzMsMOqOzEIx-GJPRohqCt2Fz7P5QkmEw62ZK-yteyoE5AEIFqcRATscewowqbtGA6C/exec"; // WAE34
 
 const translationKeys = readFileSync(
   resolve("./in/Translation Keys.txt"),
