@@ -2,9 +2,12 @@ import { writeFileSync, existsSync, mkdirSync } from "fs";
 import { resolve } from "path";
 import { rimraf } from "rimraf";
 
-const url = "https://script.google.com/macros/s/AKfycbx03qzmQrIwJTyrIJRXSZTM4FFICzKn0mDOE10ItYw-eXFTynARdyE80t4QKMwlowgD/exec";
+const url = "https://script.google.com/macros/s/AKfycbzMsMOqOzEIx-GJPRohqCt2Fz7P5QkmEw62ZK-yteyoE5AEIFqcRATscewowqbtGA6C/exec";
+  //"https://script.google.com/macros/s/AKfycbx03qzmQrIwJTyrIJRXSZTM4FFICzKn0mDOE10ItYw-eXFTynARdyE80t4QKMwlowgD/exec"; // WAE12
+  //"https://script.google.com/macros/s/AKfycbzMsMOqOzEIx-GJPRohqCt2Fz7P5QkmEw62ZK-yteyoE5AEIFqcRATscewowqbtGA6C/exec"; // WAE34
 
-function fetchData() {
+
+  function fetchData() {
   return fetch(url).then((res) => res.json());
 }
 
