@@ -2,8 +2,7 @@ import { writeFileSync, existsSync, mkdirSync } from "fs";
 import { resolve } from "path";
 import { rimraf } from "rimraf";
 
-const url =
-  "https://script.google.com/macros/s/AKfycbx03qzmQrIwJTyrIJRXSZTM4FFICzKn0mDOE10ItYw-eXFTynARdyE80t4QKMwlowgD/exec";
+const url = "https://script.google.com/macros/s/AKfycbx03qzmQrIwJTyrIJRXSZTM4FFICzKn0mDOE10ItYw-eXFTynARdyE80t4QKMwlowgD/exec";
 
 function fetchData() {
   return fetch(url).then((res) => res.json());
@@ -36,10 +35,10 @@ const ensureFolderExists = (folderPath) => {
 };
 
 const createTranslationKeys = (data) => {
-  const path = resolve(`./out/Translation Keys.txt`);
-  const values = Object.keys(data)
+  const path = `./out/Translation Keys.txt`;
+  const values = Object.keys(data);
   writeFileSync(path, values.join("\n"));
-}
+};
 
 const init = () =>
   fetchData().then((data) => {
@@ -56,6 +55,6 @@ const init = () =>
   });
 
 clean().then(() => {
-  ensureFolderExists('./out');
-  init()
+  ensureFolderExists("./out");
+  init();
 });
