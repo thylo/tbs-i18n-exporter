@@ -2,7 +2,8 @@ import { writeFileSync, existsSync, mkdirSync } from "fs";
 import { resolve } from "path";
 import { rimraf } from "rimraf";
 
-const url = "https://script.google.com/macros/s/AKfycbzMsMOqOzEIx-GJPRohqCt2Fz7P5QkmEw62ZK-yteyoE5AEIFqcRATscewowqbtGA6C/exec";
+const url = 
+  "https://script.google.com/macros/s/AKfycbwKljswjOOcA6CIQJoLZL2QpM5OgLCRJISu1W7mQxjvGXVV_Sxk2rsZ_-d77yEo3-8Q/exec";  // InsideEurope aka AugmentedSkyline //"https://script.google.com/macros/s/AKfycbwtwt2o1qnKP8rZiddxhrzuPg3je_rjWJcfWbHOszJETtTn-kSS5ruo4oQEio1bXvSQzQ/exec"; // WAE56
   //"https://script.google.com/macros/s/AKfycbx03qzmQrIwJTyrIJRXSZTM4FFICzKn0mDOE10ItYw-eXFTynARdyE80t4QKMwlowgD/exec"; // WAE12
   //"https://script.google.com/macros/s/AKfycbzMsMOqOzEIx-GJPRohqCt2Fz7P5QkmEw62ZK-yteyoE5AEIFqcRATscewowqbtGA6C/exec"; // WAE34
 
